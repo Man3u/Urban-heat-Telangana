@@ -3,11 +3,11 @@
 **Live dashboard:** https://urban-heat-telangana-jxv4ijcstuemzkzrz2k3gc.streamlit.app
 **Repository:** https://github.com/Man3u/Urban-heat-Telangana
 
-A GeoAI analysis of heat exposure and green space accessibility across the Hyderabad Metropolitan Region, Telangana, India. The project combines Landsat thermal imagery, Sentinel-2 spectral indices, population data, and OpenStreetMap green space locations to identify which communities face the highest combined burden of urban heat and poor green space access — and delivers the findings through a public, interactive web dashboard.
+A GeoAI analysis of heat exposure and green space accessibility across the Hyderabad Metropolitan Region, Telangana, India. The project combines Landsat thermal imagery, Sentinel-2 spectral indices, population data, and OpenStreetMap green space locations to identify which communities face the highest combined burden of urban heat and poor green space access and delivers the findings through a public, interactive web dashboard.
 
 ## Key Findings
 
-Across a study population of 8,376,303 people, 63.8% (5,340,189 people) live in areas classified as High or Very High Urban Heat Island intensity. Of these, 2,271,067 people (27.1% of the total population) live in **priority intervention zones** — areas that are both high-heat and more than 1km from the nearest park or green space. The average distance to green space across the study area is 3.02 km.
+Across a study population of 8,376,303 people, 63.8% (5,340,189 people) live in areas classified as High or Very High Urban Heat Island intensity. Of these, 2,271,067 people (27.1% of the total population) live in **priority intervention zones**, areas that are both high-heat and more than 1km from the nearest park or green space. The average distance to green space across the study area is 3.02 km.
 
 A 12-year land surface temperature time series (2013–2024) was analysed for a long-term trend. Using all 12 years, the trend was statistically significant but showed cooling (-3.68°C/decade, p=0.043); however, a sensitivity analysis excluding 2013, which had only 2 usable cloud-free satellite scenes and is not a reliable annual estimate found no statistically significant trend in either direction (-2.0°C/decade, p=0.219, n=11). This is reported transparently rather than presenting the more dramatic but less reliable result: it reflects genuine year-to-year weather variability rather than a confirmed long-term warming or cooling signal, and demonstrates why single or few-scene annual composites should not be over-interpreted.
 
